@@ -1,2 +1,2 @@
-# carousel-with-router
+# Activities-responsive
 Created with CodeSandbox
